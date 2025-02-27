@@ -123,7 +123,7 @@ My software, which primarily focuses on the SDG 17, "Partnerships for the Goals,
 
 4. **Encouraging Financial Contributions and Investment:** Providing information or mechanisms for people and institutions to financially support sustainable development projects across the globe.
 
-5.** Raising Awareness:** Educating the broader public about the importance of global partnerships in achieving the SDGs, promoting advocacy, and encouraging active participation.
+5. ** Raising Awareness:** Educating the broader public about the importance of global partnerships in achieving the SDGs, promoting advocacy, and encouraging active participation.
 
 These issues are significant because they directly impact our ability to achieve the other 16 SDGs. Without strong partnerships, adequate resources, and shared knowledge, progress towards goals like eradicating poverty, ensuring quality education, and combating climate change becomes much more challenging. 
 
